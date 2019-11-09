@@ -1,5 +1,6 @@
 <?php
-echo "COPYRIGHT : SGB TEAM\n\n";
+echo "COPYRIGHT : HSS TEAM\n\n";
+echo "CREATED BY CYB3R4RD"
 echo "Nomor Target?\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
